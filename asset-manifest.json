@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Personal_Portfolio/static/css/main.d22d2e17.css",
+    "main.js": "/Personal_Portfolio/static/js/main.b2e1357f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Personal_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/e_commerce_website.png": "/Personal_Portfolio/static/media/e_commerce_website.cc41306a1a7d6cf42ede.png",
+    "static/media/zomato_clone.png": "/Personal_Portfolio/static/media/zomato_clone.47c5a8c622760e212903.png",
+    "static/media/Sama_Saiyed_Resume.pdf": "/Personal_Portfolio/static/media/Sama_Saiyed_Resume.1e884ecd3ce816336a21.pdf",
+    "static/media/p_website.png": "/Personal_Portfolio/static/media/p_website.0f697b8f3c0105c82675.png",
+    "static/media/tic-tac-toe.png": "/Personal_Portfolio/static/media/tic-tac-toe.ed14a782cc0a217007ea.png",
+    "index.html": "/Personal_Portfolio/index.html",
+    "main.d22d2e17.css.map": "/Personal_Portfolio/static/css/main.d22d2e17.css.map",
+    "main.b2e1357f.js.map": "/Personal_Portfolio/static/js/main.b2e1357f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Personal_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d22d2e17.css",
+    "static/js/main.b2e1357f.js"
+  ]
+}
